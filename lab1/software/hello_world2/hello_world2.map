@@ -1,0 +1,1129 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+                              obj/default/hello_world.o (puts)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o) (strlen)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o) (__sfvwrite_small_dev)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o) (_impure_ptr)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o) (errno)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o (alt_load)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o (alt_main)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o) (write)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o) (close)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o) (alt_errno)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o) (alt_ic_isr_register)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o) (_alt_tick_rate)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                              c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o) (__call_exitprocs)
+c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o) (_exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000008000 0x0000000000000020
+onchip_mem       0x0000000000008020 0x0000000000004fe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libstdc++.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libm.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1\libgcc.a
+LOAD c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1\libgcc.a
+                0x0000000000008000                __alt_mem_onchip_mem = 0x8000
+
+.entry          0x0000000000008000       0x20
+ *(.entry)
+ .entry         0x0000000000008000       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+                0x0000000000008000                __reset
+
+.exceptions     0x0000000000008020      0x218
+                0x0000000000008020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000008020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000008020        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000008020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000008020        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000008020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000008020       0x54 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000008074       0x10 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000008084        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000008088        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000000808c        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000000808c        0x8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000008094       0x14 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000080a8        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000080a8        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000080a8       0x54 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000080fc       0xc8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000080fc                alt_irq_handler
+ .exceptions    0x00000000000081c4       0x74 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000081c4                alt_instruction_exception_entry
+                0x0000000000008238                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000008020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000008238     0x1898
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000008238       0x4c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+                0x0000000000008238                _start
+ .text          0x0000000000008284       0x34 obj/default/hello_world.o
+                0x0000000000008284                main
+ .text          0x00000000000082b8        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .text._puts_r  0x00000000000082b8       0x80 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+                0x00000000000082b8                _puts_r
+ .text.puts     0x0000000000008338       0x10 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+                0x0000000000008338                puts
+ .text          0x0000000000008348        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x0000000000008348       0x1c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                0x0000000000008348                strlen
+ .text          0x0000000000008364        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .text.__sfvwrite_small_dev
+                0x0000000000008364       0xa8 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000008364                __sfvwrite_small_dev
+ .text          0x000000000000840c        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .text          0x000000000000840c        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .text._write_r
+                0x000000000000840c       0x50 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                0x000000000000840c                _write_r
+ .text          0x000000000000845c        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .text          0x000000000000845c       0xec c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+                0x00000000000084c4                alt_load
+ .text          0x0000000000008548       0x6c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000000000008548                alt_main
+ .text          0x00000000000085b4      0x134 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+                0x00000000000085f0                write
+ .text          0x00000000000086e8       0xbc c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x000000000000871c                alt_irq_init
+                0x0000000000008758                alt_sys_init
+ .text          0x00000000000087a4       0xc0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00000000000087a4                altera_avalon_jtag_uart_read_fd
+                0x0000000000008804                altera_avalon_jtag_uart_write_fd
+ .text          0x0000000000008864       0xec c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000000000008864                altera_avalon_jtag_uart_read
+ .text          0x0000000000008950       0x98 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000008950                altera_avalon_jtag_uart_write
+ .text          0x00000000000089e8      0x100 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000000000008a64                alt_avalon_timer_sc_init
+ .text          0x0000000000008ae8      0x10c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+                0x0000000000008b24                close
+ .text          0x0000000000008bf4       0x4c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000008bf4                alt_dcache_flush_all
+ .text          0x0000000000008c40       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x0000000000008c6c       0xe4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000000008ca8                alt_dev_llist_insert
+ .text          0x0000000000008d50        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000008d50       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000008d50                alt_icache_flush_all
+ .text          0x0000000000008d84      0x1b0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+                0x0000000000008d84                alt_ic_isr_register
+                0x0000000000008dd4                alt_ic_irq_enable
+                0x0000000000008e5c                alt_ic_irq_disable
+                0x0000000000008ee8                alt_ic_irq_enabled
+ .text          0x0000000000008f34       0xe8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000000000008f34                alt_iic_isr_register
+ .text          0x000000000000901c      0x12c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x00000000000090cc                alt_io_redirect
+ .text          0x0000000000009148        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000000009148        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000000009148        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000000000009148      0x248 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+                0x000000000000923c                open
+ .text          0x0000000000009390       0x58 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x0000000000009390                alt_release_fd
+ .text          0x00000000000093e8      0x1d0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00000000000093e8                alt_alarm_stop
+                0x000000000000948c                alt_tick
+ .text          0x00000000000095b8       0x24 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x00000000000095b8                altera_nios2_gen2_irq_init
+ .text          0x00000000000095dc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x00000000000095dc       0x90 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x00000000000095dc                alt_find_dev
+ .text          0x000000000000966c      0x108 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x000000000000966c                alt_find_file
+ .text          0x0000000000009774       0xa0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x0000000000009774                alt_get_fd
+ .text          0x0000000000009814       0x90 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                0x0000000000009814                alt_icache_flush
+ .text          0x00000000000098a4       0x74 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000000098a4                alt_exception_cause_generated_bad_addr
+ .text          0x0000000000009918        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .text.exit     0x0000000000009918       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                0x0000000000009918                exit
+ .text          0x0000000000009938        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000009938       0x30 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000009938                memcmp
+ .text          0x0000000000009968        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000009968      0x12c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                0x0000000000009968                __call_exitprocs
+ .text          0x0000000000009a94       0x3c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000000000009a94                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000000009ad0                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x0000000000009ad0                . = ALIGN (0x4)
+
+.rodata         0x0000000000009ad0       0x44
+                0x0000000000009ad0                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x0000000000009ad0                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000009ad0       0x14 obj/default/hello_world.o
+ .rodata._puts_r.str1.4
+                0x0000000000009ae4        0x2 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ *fill*         0x0000000000009ae6        0x2 
+ .rodata        0x0000000000009ae8        0xf c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ *fill*         0x0000000000009af7        0x1 
+ .rodata        0x0000000000009af8        0xf c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ *fill*         0x0000000000009b07        0x1 
+ .rodata        0x0000000000009b08        0xa c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x0000000000009b14                . = ALIGN (0x4)
+ *fill*         0x0000000000009b12        0x2 
+                0x0000000000009b14                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x0000000000009ad0                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000000000009b14      0x2e4 load address 0x0000000000009df8
+                0x0000000000009b14                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000000000009b14                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000009b14        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .data          0x0000000000009b14        0x0 obj/default/hello_world.o
+ .data          0x0000000000009b14        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .data          0x0000000000009b14        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000009b14        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x0000000000009b14        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000009b14       0xe4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .data          0x0000000000009bf8        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .data          0x0000000000009bf8        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000009bf8        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000009bf8        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000009bf8        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .data          0x0000000000009bf8       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0000000000009c24        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000009c24      0x1a8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000000000009c24                alt_dev_null
+                0x0000000000009c4c                alt_fd_list
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x0000000000009dcc        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .data          0x0000000000009dcc        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .data          0x0000000000009dcc        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000009dcc        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000000000011dcc                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata._global_impure_ptr
+                0x0000000000009dcc        0x4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                0x0000000000009dcc                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000000009dd0        0x4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                0x0000000000009dd0                _impure_ptr
+ .sdata         0x0000000000009dd4       0x14 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000000000009dd4                alt_fs_list
+                0x0000000000009ddc                alt_dev_list
+                0x0000000000009de4                alt_max_fd
+ .sdata         0x0000000000009de8        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000000000009de8                alt_errno
+ .sdata         0x0000000000009dec        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000009dec                alt_priority_mask
+ .sdata         0x0000000000009df0        0x8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000000000009df0                alt_alarm_list
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000009df8                . = ALIGN (0x4)
+                0x0000000000009df8                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x0000000000009df8                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x0000000000009df8                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x000000000000a0dc      0x124
+                0x000000000000a0dc                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.errno    0x000000000000a0dc        0x4 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                0x000000000000a0dc                errno
+ .sbss          0x000000000000a0e0        0xc c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+                0x000000000000a0e0                alt_argc
+                0x000000000000a0e4                alt_argv
+                0x000000000000a0e8                alt_envp
+ .sbss          0x000000000000a0ec        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x000000000000a0ec                alt_irq_active
+ .sbss          0x000000000000a0f0        0xc c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                0x000000000000a0f0                _alt_tick_rate
+                0x000000000000a0f4                _alt_nticks
+ .sbss          0x000000000000a0fc        0x4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000000a0fc                alt_instruction_exception_handler
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .bss           0x000000000000a100        0x0 obj/default/hello_world.o
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .bss           0x000000000000a100        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x000000000000a100        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x000000000000a100      0x100 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x000000000000a100                alt_irq
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x000000000000a200        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .bss           0x000000000000a200        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .bss           0x000000000000a200        0x0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .bss           0x000000000000a200        0x0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x000000000000a200                . = ALIGN (0x4)
+                0x000000000000a200                __bss_end = ABSOLUTE (.)
+
+.onchip_mem     0x000000000000a200        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_start = ABSOLUTE (.))
+ *(.onchip_mem .onchip_mem. onchip_mem.*)
+                0x000000000000a200                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_end = ABSOLUTE (.))
+                0x000000000000a200                _end = ABSOLUTE (.)
+                0x000000000000a200                end = ABSOLUTE (.)
+                0x000000000000a200                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_load_addr = LOADADDR (.onchip_mem))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2d
+ *(.comment)
+ .comment       0x0000000000000000       0x2d obj/default/hello_world.o
+                                         0x2e (size before relaxing)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .comment       0x000000000000002d       0x2e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .comment       0x000000000000002d       0x2e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x558
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x0000000000000048       0x28 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_aranges
+                0x0000000000000070       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000090       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x00000000000000b0       0x18 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000000000000e8       0x18 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000120       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000140       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x0000000000000200       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x0000000000000220       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x0000000000000240       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000260       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000280       0x18 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000298       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x0000000000000318       0x30 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x0000000000000348       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000368       0x18 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000380       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x00000000000003a0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000000000003c0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000000000003e0       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x0000000000000400       0x30 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x0000000000000430       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x0000000000000450       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x0000000000000470       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x0000000000000490       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_aranges
+                0x00000000000004b0       0x28 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x00000000000004d8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000000004f8       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000518       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000538       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x68a6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022       0x91 obj/default/hello_world.o
+ .debug_info    0x00000000000000b3      0x6b9 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_info    0x000000000000076c       0xd1 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000083d      0x691 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x0000000000000ece      0x5cf c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x000000000000149d      0x671 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_info    0x0000000000001b0e       0x85 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000001b93      0x144 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000001cd7      0x174 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000001e4b      0x54a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x0000000000002395      0x43c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00000000000027d1      0x3c9 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x0000000000002b9a      0x144 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000000000002cde      0x12b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000002e09      0x21d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x0000000000003026      0x32f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x0000000000003355       0xa1 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00000000000033f6      0x567 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x000000000000395d      0x1a8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000000000003b05       0xa8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000003bad       0xb2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000003c5f      0x339 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000003f98      0x218 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x00000000000041b0      0x561 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x0000000000004711       0x22 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000004733      0x170 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00000000000048a3       0x88 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x000000000000492b      0x415 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x0000000000004d40      0x2ac c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000000000004fec      0x29e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x000000000000528a       0x8d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x0000000000005317       0x22 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000005339      0x323 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x000000000000565c      0x324 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x0000000000005980      0x309 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000000000005c89       0xd8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x0000000000005d61      0x1e8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x0000000000005f49       0xf6 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_info    0x000000000000603f       0xf9 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_info    0x0000000000006138      0x68c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000067c4       0xe2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x29a6
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012       0x43 obj/default/hello_world.o
+ .debug_abbrev  0x0000000000000055      0x20d c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000000262       0x8c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000000000002ee      0x1fb c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x00000000000004e9      0x185 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x000000000000066e      0x1e0 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x000000000000084e       0x39 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000000887       0xc2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000000949       0xf3 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000000a3c      0x149 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x0000000000000b85      0x1ab c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000000d30      0x128 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x0000000000000e58       0xd2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x0000000000000f2a       0xd0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000000000000ffa      0x18f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x0000000000001189      0x147 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00000000000012d0       0x5d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x000000000000132d      0x11b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000001448      0x12b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000001573       0x70 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000000000015e3       0x75 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000001658      0x1a9 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x0000000000001801      0x199 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x000000000000199a      0x157 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000000000001af1       0x12 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x0000000000001b03      0x12f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x0000000000001c32       0x46 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000001c78      0x191 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x0000000000001e09       0xea c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x0000000000001ef3      0x17f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000002072       0x43 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000020b5       0x12 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00000000000020c7      0x10c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00000000000021d3      0x11d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x00000000000022f0      0x124 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x0000000000002414       0x97 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x00000000000024ab       0xed c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000002598       0xb2 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_abbrev  0x000000000000264a       0xa1 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00000000000026eb      0x210 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000028fb       0xab c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0x1ae9
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x72 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000072       0x50 obj/default/hello_world.o
+ .debug_line    0x00000000000000c2       0xc2 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_line    0x0000000000000184       0x7c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000200       0xd7 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x00000000000002d7       0x51 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x0000000000000328       0xae c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_line    0x00000000000003d6       0x3a c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000000410       0x8f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x000000000000049f       0x91 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000000530      0x138 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x0000000000000668       0xb0 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000000718       0x8a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x00000000000007a2       0xa4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000000000000846       0x7e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x00000000000008c4       0xb1 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x0000000000000975      0x116 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000000000000a8b       0x69 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000000af4       0x99 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000000b8d       0xca c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000000000000c57       0x4c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000000ca3       0x63 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000000d06       0xf4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x0000000000000dfa       0xbc c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x0000000000000eb6       0xc9 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x0000000000000f7f       0x6b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000000fea       0xb4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x000000000000109e       0x43 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00000000000010e1      0x158 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x0000000000001239       0x77 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00000000000012b0       0xf2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00000000000013a2       0x51 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x00000000000013f3       0x9d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000000000001490       0xa1 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000001531       0xd7 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x0000000000001608       0xb2 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x00000000000016ba       0x8f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x0000000000001749       0xa1 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x00000000000017ea       0x7b c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_line    0x0000000000001865       0x8f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_line    0x00000000000018f4      0x17b c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000001a6f       0x7a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000      0x9c4
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x38 obj/default/hello_world.o
+ .debug_frame   0x0000000000000038       0x48 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_frame   0x0000000000000080       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000000a0       0x3c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x00000000000000dc       0x30 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x000000000000010c       0x5c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000168       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000194       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x00000000000001f4       0x88 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x000000000000027c       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x00000000000002dc       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x0000000000000310       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000000000000344       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x00000000000003a4       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x0000000000000404       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000438       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000000000000046c       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000000000004cc       0x38 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000504       0xa4 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x00000000000005a8       0x38 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000000000005e0       0x60 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x0000000000000640       0x38 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000678       0x84 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000000000006fc       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000000000000730       0x64 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x0000000000000794       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x00000000000007c8       0x38 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x0000000000000800       0x38 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x0000000000000838       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000000000000086c       0x34 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x00000000000008a0       0x5c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x00000000000008fc       0x28 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000924       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000944       0x54 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000998       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x1117
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x73 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_str     0x0000000000000073       0xac obj/default/hello_world.o
+                                         0xea (size before relaxing)
+ .debug_str     0x000000000000011f      0x329 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+                                        0x3fa (size before relaxing)
+ .debug_str     0x0000000000000448      0x329 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                                         0xfb (size before relaxing)
+ .debug_str     0x0000000000000448       0x25 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                        0x404 (size before relaxing)
+ .debug_str     0x000000000000046d       0x1f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                                        0x3e9 (size before relaxing)
+ .debug_str     0x000000000000048c       0x1f c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                                        0x3e3 (size before relaxing)
+ .debug_str     0x000000000000048c       0xed c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+ .debug_str     0x000000000000048c      0x108 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x1ed (size before relaxing)
+ .debug_str     0x0000000000000594       0x61 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x157 (size before relaxing)
+ .debug_str     0x00000000000005f5      0x19b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+                                        0x2fa (size before relaxing)
+ .debug_str     0x0000000000000790      0x156 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x2f6 (size before relaxing)
+ .debug_str     0x00000000000008e6       0x48 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x284 (size before relaxing)
+ .debug_str     0x000000000000092e       0x48 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x164 (size before relaxing)
+ .debug_str     0x000000000000092e       0x48 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x159 (size before relaxing)
+ .debug_str     0x000000000000092e       0xb6 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x00000000000009e4       0x16 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+                                        0x1bd (size before relaxing)
+ .debug_str     0x00000000000009fa       0xfa c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x00000000000009fa       0x3e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+                                        0x316 (size before relaxing)
+ .debug_str     0x0000000000000a38       0x11 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x171 (size before relaxing)
+ .debug_str     0x0000000000000a49        0x8 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+                                         0xf7 (size before relaxing)
+ .debug_str     0x0000000000000a51       0x11 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x113 (size before relaxing)
+ .debug_str     0x0000000000000a62       0x94 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x0000000000000af6       0x18 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x1b2 (size before relaxing)
+ .debug_str     0x0000000000000b0e       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                        0x321 (size before relaxing)
+ .debug_str     0x0000000000000b3a       0x18 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                                         0x7c (size before relaxing)
+ .debug_str     0x0000000000000b52       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x141 (size before relaxing)
+ .debug_str     0x0000000000000b72       0x12 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                         0xf0 (size before relaxing)
+ .debug_str     0x0000000000000b84       0x42 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+                                        0x231 (size before relaxing)
+ .debug_str     0x0000000000000bc6      0x17a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_str     0x0000000000000bc6       0x6c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                                        0x1fb (size before relaxing)
+ .debug_str     0x0000000000000c32      0x100 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_str     0x0000000000000c32       0x1e c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                                         0x82 (size before relaxing)
+ .debug_str     0x0000000000000c50        0x7 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1a1 (size before relaxing)
+ .debug_str     0x0000000000000c57      0x1ae c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_str     0x0000000000000c57       0x10 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                        0x1be (size before relaxing)
+ .debug_str     0x0000000000000c67      0x104 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_str     0x0000000000000c67      0x461 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x543 (size before relaxing)
+ .debug_str     0x00000000000010c8       0x11 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                                        0x108 (size before relaxing)
+ .debug_str     0x00000000000010d9       0xf5 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_str     0x00000000000010d9       0x27 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                                        0x413 (size before relaxing)
+ .debug_str     0x0000000000001100       0x17 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+                                        0x102 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x30
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x30 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+                0x000000000000d000                __alt_data_end = 0xd000
+                0x000000000000d000                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0xd000)
+OUTPUT(hello_world2.elf elf32-littlenios2)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000       0x70
+ .debug_ranges  0x0000000000000000       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x28 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000048       0x28 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exception_entry.o)
+
+.debug_line_str
+                0x0000000000000000      0xd42
+ .debug_line_str
+                0x0000000000000000       0x5f obj/default/hello_world.o
+                                         0xcc (size before relaxing)
+ .debug_line_str
+                0x000000000000005f      0x240 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+                                        0x30b (size before relaxing)
+ .debug_line_str
+                0x000000000000029f       0xf2 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+                                        0x294 (size before relaxing)
+ .debug_line_str
+                0x0000000000000391       0x46 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                        0x31f (size before relaxing)
+ .debug_line_str
+                0x00000000000003d7       0xef c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-impure.o)
+                                        0x29b (size before relaxing)
+ .debug_line_str
+                0x00000000000004c6       0x44 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+                                        0x307 (size before relaxing)
+ .debug_line_str
+                0x000000000000050a       0x3e c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-int_errno.o)
+                                        0x1be (size before relaxing)
+ .debug_line_str
+                0x0000000000000548       0xab c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_load.o)
+                                        0x11e (size before relaxing)
+ .debug_line_str
+                0x00000000000005f3       0xfe c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_main.o)
+                                        0x1e5 (size before relaxing)
+ .debug_line_str
+                0x00000000000006f1      0x118 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_write.o)
+                                        0x29d (size before relaxing)
+ .debug_line_str
+                0x0000000000000809       0x92 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                        0x1ad (size before relaxing)
+ .debug_line_str
+                0x000000000000089b       0x35 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x1a4 (size before relaxing)
+ .debug_line_str
+                0x00000000000008d0       0x2b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x169 (size before relaxing)
+ .debug_line_str
+                0x00000000000008fb       0x2c c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x16c (size before relaxing)
+ .debug_line_str
+                0x0000000000000927       0x31 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x16e (size before relaxing)
+ .debug_line_str
+                0x0000000000000958       0x14 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_close.o)
+                                        0x1a1 (size before relaxing)
+ .debug_line_str
+                0x000000000000096c       0x1f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x107 (size before relaxing)
+ .debug_line_str
+                0x000000000000098b       0x12 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev.o)
+                                        0x21c (size before relaxing)
+ .debug_line_str
+                0x000000000000099d       0x1f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x14c (size before relaxing)
+ .debug_line_str
+                0x00000000000009bc       0x14 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_errno.o)
+                                        0x15a (size before relaxing)
+ .debug_line_str
+                0x00000000000009d0       0x1f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x137 (size before relaxing)
+ .debug_line_str
+                0x00000000000009ef       0x3a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic.o)
+                                        0x145 (size before relaxing)
+ .debug_line_str
+                0x0000000000000a29       0x2f c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x154 (size before relaxing)
+ .debug_line_str
+                0x0000000000000a58       0x2b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                        0x245 (size before relaxing)
+ .debug_line_str
+                0x0000000000000a83       0x1a c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x126 (size before relaxing)
+ .debug_line_str
+                0x0000000000000a9d       0x17 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                        0x105 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ab4       0x13 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_open.o)
+                                        0x143 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ac7       0x19 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_release_fd.o)
+                                        0x149 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ae0       0x13 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_tick.o)
+                                        0x144 (size before relaxing)
+ .debug_line_str
+                0x0000000000000af3       0x20 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x10a (size before relaxing)
+ .debug_line_str
+                0x0000000000000b13       0x17 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                        0x1e6 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b2a       0x18 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_find_file.o)
+                                        0x203 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b42       0x15 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                        0x14c (size before relaxing)
+ .debug_line_str
+                0x0000000000000b57       0x1b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                                        0x111 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b72       0x3b c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x15d (size before relaxing)
+ .debug_line_str
+                0x0000000000000bad       0xf9 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+                                        0x289 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ca6       0x3c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+                                        0x294 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ce2       0x43 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+                                        0x2b5 (size before relaxing)
+ .debug_line_str
+                0x0000000000000d25       0x1d c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_exit.o)
+                                         0xfb (size before relaxing)
+
+.debug_loclists
+                0x0000000000000000      0x3ab
+ .debug_loclists
+                0x0000000000000000       0x73 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_loclists
+                0x0000000000000073       0x32 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_loclists
+                0x00000000000000a5       0xc5 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loclists
+                0x000000000000016a       0x88 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_loclists
+                0x00000000000001f2       0x20 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_loclists
+                0x0000000000000212       0x8c c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_loclists
+                0x000000000000029e      0x10d c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)
+
+.debug_rnglists
+                0x0000000000000000       0xe1
+ .debug_rnglists
+                0x0000000000000000       0x1a c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-puts.o)
+ .debug_rnglists
+                0x000000000000001a       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-strlen.o)
+ .debug_rnglists
+                0x000000000000002d       0x14 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_rnglists
+                0x0000000000000041       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-writer.o)
+ .debug_rnglists
+                0x0000000000000054       0x16 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_rnglists
+                0x000000000000006a       0x14 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_rnglists
+                0x000000000000007e       0x19 c:/Users/dylan/OneDrive/Bureau/DSD/system_template_de1_soc/software/hello_world2_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_rnglists
+                0x0000000000000097       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-exit.o)
+ .debug_rnglists
+                0x00000000000000aa       0x13 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-memcmp.o)
+ .debug_rnglists
+                0x00000000000000bd       0x24 c:/intelfpga_lite/22.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib\libsmallc.a(lib_a-__call_atexit.o)

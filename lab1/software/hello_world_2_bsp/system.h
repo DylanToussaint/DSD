@@ -4,7 +4,7 @@
  * Machine generated for CPU 'cpu' in SOPC Builder design 'first_nios2_system'
  * SOPC Builder design path: C:/Users/Jakob/Documents/system_template_de1_soc/system_template_de1_soc/first_nios2_system.sopcinfo
  *
- * Generated: Thu Jan 23 01:12:56 GMT 2025
+ * Generated: Thu Feb 06 15:07:39 GMT 2025
  */
 
 /*
@@ -79,7 +79,7 @@
 #define ALT_CPU_FLUSHDA_SUPPORTED
 #define ALT_CPU_FREQ 50000000
 #define ALT_CPU_HARDWARE_DIVIDE_PRESENT 0
-#define ALT_CPU_HARDWARE_MULTIPLY_PRESENT 0
+#define ALT_CPU_HARDWARE_MULTIPLY_PRESENT 1
 #define ALT_CPU_HARDWARE_MULX_PRESENT 0
 #define ALT_CPU_HAS_DEBUG_CORE 1
 #define ALT_CPU_HAS_DEBUG_STUB
@@ -119,7 +119,7 @@
 #define NIOS2_FLASH_ACCELERATOR_LINE_SIZE 0
 #define NIOS2_FLUSHDA_SUPPORTED
 #define NIOS2_HARDWARE_DIVIDE_PRESENT 0
-#define NIOS2_HARDWARE_MULTIPLY_PRESENT 0
+#define NIOS2_HARDWARE_MULTIPLY_PRESENT 1
 #define NIOS2_HARDWARE_MULX_PRESENT 0
 #define NIOS2_HAS_DEBUG_CORE 1
 #define NIOS2_HAS_DEBUG_STUB
@@ -266,8 +266,8 @@
 #define ONCHIP_MEM_READ_DURING_WRITE_MODE "DONT_CARE"
 #define ONCHIP_MEM_SINGLE_CLOCK_OP 0
 #define ONCHIP_MEM_SIZE_MULTIPLE 1
-#define ONCHIP_MEM_SIZE_VALUE 300000
-#define ONCHIP_MEM_SPAN 300000
+#define ONCHIP_MEM_SIZE_VALUE 389120
+#define ONCHIP_MEM_SPAN 389120
 #define ONCHIP_MEM_TYPE "altera_avalon_onchip_memory2"
 #define ONCHIP_MEM_WRITABLE 1
 
@@ -311,7 +311,7 @@
 #define SYSID_IRQ_INTERRUPT_CONTROLLER_ID -1
 #define SYSID_NAME "/dev/sysid"
 #define SYSID_SPAN 8
-#define SYSID_TIMESTAMP 1737582091
+#define SYSID_TIMESTAMP 1738819187
 #define SYSID_TYPE "altera_avalon_sysid_qsys"
 
 #endif /* __SYSTEM_H_ */
